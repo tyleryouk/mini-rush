@@ -651,6 +651,7 @@
 				ORGANIZATIONNAME = OneDreamer;
 				TargetAttributes = {
 					D749CDBD19049D500016B5F4 = {
+						DevelopmentTeam = 4H2CPZLR9S;
 						SystemCapabilities = {
 							com.apple.GameCenter = {
 								enabled = 1;
@@ -926,7 +927,7 @@
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_BUNDLE_IDENTIFIER = com.TylerYouk.MiniRush;
 				PRODUCT_NAME = "Mini Rush";
-				PROVISIONING_PROFILE = "3a7b6d7c-db9b-4b11-88ab-3c131169b17d";
+				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -951,7 +952,7 @@
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_BUNDLE_IDENTIFIER = com.TylerYouk.MiniRush;
 				PRODUCT_NAME = "Mini Rush";
-				PROVISIONING_PROFILE = "de0a451f-b30b-44f7-8b38-512beb7bbcf1";
+				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
